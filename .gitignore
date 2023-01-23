@@ -1,0 +1,5 @@
+creds.txt
+
+terraform/.terraform/**
+
+sf_cli/venv/**
